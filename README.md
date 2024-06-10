@@ -17,26 +17,11 @@ The To-Do List app is a simple and efficient task management tool that helps you
 
 ## Screenshots 📸
 
-![Screenshot 1](screenshots/Screenshot_2.png)
-*Screenshot of the To-Do List app showing tasks for the "My Day" section.*
+ ![Capture3](https://github.com/rohit4166/PedalStart/assets/129392163/6359695c-0c41-46db-8b14-82fb27ab5448)
+![Capture2](https://github.com/rohit4166/PedalStart/assets/129392163/e1c99f2b-0933-4568-b11a-08e13fcb3f2b)
+![Capture1](https://github.com/rohit4166/PedalStart/assets/129392163/69b17409-fe22-4041-90ba-2aa4cf407753)
 
-![Screenshot 2](screenshots/Screenshot_1.png)
-*Screenshot of the To-Do List app showing tasks for the "Current Week" section.*
-
-![Screenshot 3](screenshots/Screenshot_3.png)
-*Screenshot of the To-Do List app showing tasks for the "Current Month" section.*
-
-![Screenshot 4](screenshots/Screenshot_4.png)
-*Screenshot of the To-Do List app showing a confirmation pop-up for deleting a task.*
-
-![Screenshot 5](screenshots/Screenshot_5.png)
-*Screenshot of the To-Do List app showing tasks that match the search results.*
-
-![Screenshot 6](screenshots/Screenshot_6.png)
-
-*Screenshot of the To-Do List app on Mobile device.*
-
-## How to Use 📖
+ ## How to Use 📖
 
 1. **Adding a Task:** To add a new task, enter the task description and due date in the input fields provided. Press the "Add" button or press Enter to save the task to the list.
 
@@ -59,13 +44,5 @@ The To-Do List app is a simple and efficient task management tool that helps you
 - For the app to work properly, you need to host it on a localhost or a server. Simply opening the index file as a web page won't provide the required functionality.
 
 
-## Try it Online 💻
-
-You can try the To Do List application online by following [this link](https://abkrishna.me/To-Do-List/).
-
-
-## Feedback and Support 💌
-
-Thank you for using my To-Do List app. I hope it helps you stay organized and productive. If you have any feedback, or suggestions, or encounter any issues, please feel free to contact the developer, Azim Baji Krishna, at azimbaji19@gmail.com
-
+  
 Happy tasking! 😊
